@@ -67,20 +67,6 @@ Besides the launcher, my GitHub is a playground for:
 
 ---
 
-:-) GitHub Analytics
-
-<!-- CORREGIDO: Añadido cache_seconds y estilos flex para evitar que se rompan si tardan en cargar -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Trinity-LA&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=1800&rank_icon=github" alt="GitHub Stats" style="width: 45%; min-width: 300px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Trinity-LA&theme=gruvbox&hide_border=true&cache_seconds=1800" alt="Streak" style="width: 45%; min-width: 300px;">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trinity-LA&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=1800" alt="Top Languages" style="width: 45%; min-width: 300px;">
-</p>
-
----
-
 :o Nerd Corner / Fun Facts
 
 - Currently working on: Rewriting parts of Trinity Launcher in pure Qt6 with Wayland support.
