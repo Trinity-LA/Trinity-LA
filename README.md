@@ -80,15 +80,6 @@ Besides the launcher, my GitHub is a playground for:
 
 ---
 
-:)| Connect with Me
-
-- Email: your-email@domain.com
-- Twitter / X: @your_handle (Updates on launcher releases)
-- LinkedIn: linkedin.com/in/your-profile
-- Flathub Profile: flathub.org/apps/your-app (if applicable)
-
----
-
 :o Nerd Corner / Fun Facts
 
 - Currently working on: Rewriting parts of Trinity Launcher in pure Qt6 with Wayland support.
